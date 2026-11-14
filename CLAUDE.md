@@ -163,7 +163,9 @@ B=1000, percentile 95% CI for every reported metric. Seeds fixed.
 
 ---
 
-## 5. Data sources (owner verifies accession/URL before first download; mark "verified" in SNAPSHOT.md)
+## 5. Data sources (accession/URL verified before first download; mark "verified" in SNAPSHOT.md,
+noting who verified it and when — the owner may do this themselves, or ask Claude to do it and
+confirm the result later)
 
 | item | source | notes |
 |------|--------|-------|
