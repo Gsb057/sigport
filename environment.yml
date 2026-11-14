@@ -1,0 +1,15 @@
+name: sigport
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - typer
+  - pytest
+  - requests
+  - pyarrow
+  - pip
